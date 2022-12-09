@@ -1,3 +1,26 @@
 body {
     background-color: red;
+    font-family: verdana, geneva, arial, sans-serif; 
+    font-size: small;
+}
+
+h1 {
+    font-size: 175%;
+}
+
+h2 {
+    font-size: 125%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.licence {
+    color: black;
+    text-align: center;
+}
+
+.lienlic {
+    color: black;
 }
